@@ -9,11 +9,85 @@
 
 .section-container {
   max-width: 100%;
-  max-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 2rem;
+}
+.section-containerLogin {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  overflow: hidden;
+  margin-bottom: 100rem;
+}
+
+.perfilUser {
+ display: flex;
+ align-items: center;
+ margin: 0.2rem;
+ margin-bottom: 2rem;
+}
+
+.diasDaSemana {
+  display: flex;
+  justify-content: space-around;
+}
+.diasDaSemana span {
+  background-color: darkorange;
+  max-width: 50px;
+  cursor: pointer;
+  padding: .5rem;
+}
+
+.personal {
+  display: flex;
+  margin-top: 5rem;
+}
+
+
+.personal img {
+  max-width: 80px;
+  border-radius: 100%;
+}
+
+.treinosCard {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.treinos {
+  display: flex;
+  overflow: scroll;
+}
+
+.treinos img{
+  max-width: 80px;
+  border-radius: 1px solid gray;
+}
+
+.seguidores {
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid lightblue;
+}
+
+.publicacoes {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 1rem;
+}
+
+.publicacoes img {
+  max-width: 100%;
+}
+
+.perfilUser img {
+ max-width: 70px;
+ border-radius: 100%;
+ border: 2px solid lightsteelblue;
 }
 
 .titulo {
@@ -99,3 +173,47 @@ input {
   margin-bottom: 2rem;
   margin-top: 1rem;
 }
+
+
+
+
+.navBar{
+  display: flex;
+  max-width: 90%;
+  padding: 0.2rem;
+  margin: 0 auto;
+  justify-content: space-around;
+  border-top: 1px solid lightsteelblue;
+}
+
+.navBar img {
+  width: 30px;
+}
+
+.postInteractions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.postInteractions img {
+  max-width: 30px;
+}
+
+.postUser {
+  display: flex;
+  margin: 0.2rem 1rem;
+}
+.postUser p {
+  margin-left: 1rem;
+}
+.postUser img {
+  max-width: 30px;
+  border-radius: 100%;
+}
+
+.postPrincipal {
+  max-width: 300px;
+  background-color: aliceblue;
+}
+
+
