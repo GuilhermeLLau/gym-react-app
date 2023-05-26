@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.css": "/gym-react-app/static/css/main.31d6cfe0.css",
-    "main.js": "/gym-react-app/static/js/main.ece21d18.js",
+    "main.css": "/gym-react-app/static/css/main.8ee98093.css",
+    "main.js": "/gym-react-app/static/js/main.560cde09.js",
+    "static/media/google.svg": "/gym-react-app/static/media/google.b9846a64173f44f53142124edfbfb07a.svg",
+    "static/media/apple.svg": "/gym-react-app/static/media/apple.4c11b89e3177f3852a653a94b27cb824.svg",
+    "static/media/dumbell.svg": "/gym-react-app/static/media/dumbell.6213b43e1b73a8c6686de7fd7f2a1d03.svg",
     "index.html": "/gym-react-app/index.html",
-    "main.ece21d18.js.map": "/gym-react-app/static/js/main.ece21d18.js.map"
+    "static/media/facebook.svg": "/gym-react-app/static/media/facebook.eac53df7cd2ccda0e5c11f6b8d3d109c.svg",
+    "main.8ee98093.css.map": "/gym-react-app/static/css/main.8ee98093.css.map",
+    "main.560cde09.js.map": "/gym-react-app/static/js/main.560cde09.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.ece21d18.js"
+    "static/css/main.8ee98093.css",
+    "static/js/main.560cde09.js"
   ]
 }
