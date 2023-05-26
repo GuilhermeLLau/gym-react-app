@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/gym-react-app/static/css/main.31d6cfe0.css",
+    "main.js": "/gym-react-app/static/js/main.ece21d18.js",
+    "index.html": "/gym-react-app/index.html",
+    "main.ece21d18.js.map": "/gym-react-app/static/js/main.ece21d18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ece21d18.js"
+  ]
+}
