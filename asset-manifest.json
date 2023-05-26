@@ -1,17 +1,36 @@
 {
   "files": {
-    "main.css": "/gym-react-app/static/css/main.8ee98093.css",
-    "main.js": "/gym-react-app/static/js/main.18b3446c.js",
+    "main.css": "/gym-react-app/static/css/main.c75b23ce.css",
+    "main.js": "/gym-react-app/static/js/main.077deb6d.js",
+    "static/media/perfil1.png": "/gym-react-app/static/media/perfil1.ae1618da67768b3fedea.png",
+    "static/media/post2.jpg": "/gym-react-app/static/media/post2.7285a38b20a15b986915.jpg",
+    "static/media/post1.jpg": "/gym-react-app/static/media/post1.ef9e8d3c801ddbb9fedb.jpg",
+    "static/media/post4.jpg": "/gym-react-app/static/media/post4.7f15bf7fcde969b7ec3b.jpg",
+    "static/media/pessoa3.jpg": "/gym-react-app/static/media/pessoa3.b15a1eab64367340a18a.jpg",
+    "static/media/pessoa2.jpg": "/gym-react-app/static/media/pessoa2.69a9116730ecbfedfaf1.jpg",
+    "static/media/post3.jpg": "/gym-react-app/static/media/post3.c707faf5ca144fd0d700.jpg",
+    "static/media/pessoa1.jpg": "/gym-react-app/static/media/pessoa1.ec9671444feba8053236.jpg",
+    "static/media/supinoreto.jpg": "/gym-react-app/static/media/supinoreto.b7ca0c2a28097f5a0a23.jpg",
+    "static/media/supinoinclinadohalter.jpg": "/gym-react-app/static/media/supinoinclinadohalter.d29512abda967b03ee58.jpg",
+    "static/media/triceps2.jpg": "/gym-react-app/static/media/triceps2.632adb89cfb31c504ec7.jpg",
+    "static/media/triceps1.jpg": "/gym-react-app/static/media/triceps1.c6aa330e636e31ef75c5.jpg",
+    "static/media/paulomuzy.jpg": "/gym-react-app/static/media/paulomuzy.3771bb8a8946bf6d4c66.jpg",
     "static/media/google.svg": "/gym-react-app/static/media/google.b9846a64173f44f53142124edfbfb07a.svg",
     "static/media/apple.svg": "/gym-react-app/static/media/apple.4c11b89e3177f3852a653a94b27cb824.svg",
-    "static/media/dumbell.svg": "/gym-react-app/static/media/dumbell.6213b43e1b73a8c6686de7fd7f2a1d03.svg",
+    "static/media/dumbell.svg": "/gym-react-app/static/media/dumbell.00e01bafa699fc9dc24b243f6f36e924.svg",
+    "static/media/heart.svg": "/gym-react-app/static/media/heart.8dacb25891bd65731055034f18c09980.svg",
+    "static/media/home.svg": "/gym-react-app/static/media/home.f60b1b1554689ecb05d755ac095faf2f.svg",
     "index.html": "/gym-react-app/index.html",
+    "static/media/user.svg": "/gym-react-app/static/media/user.46dcad151be5a221f98124134a107ad5.svg",
     "static/media/facebook.svg": "/gym-react-app/static/media/facebook.eac53df7cd2ccda0e5c11f6b8d3d109c.svg",
-    "main.8ee98093.css.map": "/gym-react-app/static/css/main.8ee98093.css.map",
-    "main.18b3446c.js.map": "/gym-react-app/static/js/main.18b3446c.js.map"
+    "static/media/send.svg": "/gym-react-app/static/media/send.8ccd2f892475a26b927fba79ef694bd5.svg",
+    "static/media/message.svg": "/gym-react-app/static/media/message.184a4d850ced8b9c9b3e2df66af29e58.svg",
+    "static/media/plus.svg": "/gym-react-app/static/media/plus.797831846d70a2cea846b47bb5cf93e1.svg",
+    "main.c75b23ce.css.map": "/gym-react-app/static/css/main.c75b23ce.css.map",
+    "main.077deb6d.js.map": "/gym-react-app/static/js/main.077deb6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ee98093.css",
-    "static/js/main.18b3446c.js"
+    "static/css/main.c75b23ce.css",
+    "static/js/main.077deb6d.js"
   ]
 }
