@@ -2,10 +2,42 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+
+import Login from './routes/Login';
+import Home from './routes/Home';
+import Perfil from './routes/Perfil';
+import Treinos from './routes/Treinos';
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <App />,
+    children: [
+      {
+        path: '/',
+        element: <Login />,
+      },
+      {
+        path: 'home',
+        element: <Home />,
+      },
+      {
+        path: 'perfil',
+        element: <Perfil />,
+      },
+      {
+        path: 'treinos',
+        element: <Treinos />,
+      },
+    ],
+  },
+]);
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>,
 );
 
